@@ -1,0 +1,18 @@
+{
+  "name": "image-renditions-generator",
+  "version": "1.0.0",
+  "description": "Generate smaller image renditions of a single large image based on configuration.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node generate-renditions"
+  },
+  "type": "module",
+  "author": "Bharath Sampath Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-responsive": "^3.0.1",
+    "node": "^22.10.0",
+    "sharp": "^0.33.5"
+  }
+}
