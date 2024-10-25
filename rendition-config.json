@@ -1,12 +1,12 @@
 {
     "inputConfigs": [
         {
-            "path" : "D:\\Website assets\\Background media"
+            "path" : "\\raw-assets"
             , "fileType": "jpg"
         }
     ]
     , "outputConfig": {
-        "dirPath": "D:\\bsk-portfoloio-site\\public\\background-2"
+        "dirPath": "\\renders"
         , "deepPath": "\\[image-name]"
         , "renderResolutions": [
             {
